@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/lesspass/lesspass/workflows/test/badge.svg)](https://github.com/lesspass/lesspass/actions)
 
-# PurePass
+# [WORK IN PROGRESS] PurePass
 
 PurePass is a cryptographic password manager. Fork of LessPass with little state added.
 
