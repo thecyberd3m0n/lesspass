@@ -1,8 +1,8 @@
 [![Actions Status](https://github.com/lesspass/lesspass/workflows/test/badge.svg)](https://github.com/lesspass/lesspass/actions)
 
-# LessPass
+# PurePass
 
-LessPass is a stateless password manager.
+PurePass is a cryptographic password manager. Fork of LessPass with little state added.
 
 Stop wasting your time synchronizing your encrypted vault. Remember one master password to access your passwords, anywhere, anytime. No sync needed. Try the demo at [www.lesspass.com](https://www.lesspass.com).
 
@@ -54,7 +54,7 @@ This project exists thanks to all of the people who contribute.
 [You can help too! There are many ways to help make LessPass better.](CONTRIBUTING.md)
 
 [![Contributors list](https://opencollective.com/lesspass/contributors.svg?width=890)](https://github.com/lesspass/lesspass/graphs/contributors)
-
+Fork by Dmitrij (thecyberd3m0n) Rysanow.
 ## Backers
 
 Thank you to all our backers!
@@ -64,8 +64,8 @@ Thank you to all our backers!
 <a href="https://opencollective.com/lesspass#backers" target="_blank">![Backers list](https://opencollective.com/lesspass/backers.svg?width=890)</a>
 
 
-## Sponsors
+## Donate
+BTC: bc1q4xk5zkmxku74sw39psjcj5g35xr4g543w3wqna
+LTC: LLQiXEZ9hsj6sf4cAKCYSN4vxTXDAACHjq
+ETH: 0x10887F45b2966D6A847857BB6Ad05dd9D335212f 
 
-There is no sponsor for now
-
-Are you a member of a company or organization that might be willing to sponsor LessPass? Please ask them to consider supporting this open source project by [becoming a sponsor](https://opencollective.com/lesspass#sponsor)!
